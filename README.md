@@ -34,7 +34,7 @@ these three. Same node, same code: install it over this one.
 
 ### Install
 
-Copy `addons/weather_fx/` into your project. Open `demo/demo.tscn` to try the effects.
+Copy `addons/weather_fx/` into your project. Open `addons/weather_fx/demo/demo.tscn` to try the effects.
 
 ### License
 

@@ -1,7 +1,7 @@
 extends Node2D
 ## Turn effects on and off over a pixel-art landscape; they stack. Click to strike lightning.
 
-const LANDSCAPE := preload("res://demo/landscape.gd")
+const LANDSCAPE := preload("res://addons/weather_fx/demo/landscape.gd")
 const ZOOM := 4
 const GROUND := 0.66
 const LAKE := 0.69

@@ -3,7 +3,7 @@ extends Node2D
 ## pixels big and shown `zoom` times bigger: sky, mountains, hills, trees, ground, a lake. The
 ## "meadow" mood is seen from above instead, for top-down games.
 
-const ART := "res://demo/art/%s.png"
+const ART := "res://addons/weather_fx/demo/art/%s.png"
 ## Colours per mood. sky: top, middle, horizon.
 const MOODS := {
 	"day": {sky = ["#3b7dd8", "#6fa8e8", "#c4e3f6"], far = "#8fa5cc", cap = "#eef4ff",

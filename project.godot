@@ -4,7 +4,7 @@ config_version=5
 [application]
 
 config/name="Weather FX Free"
-run/main_scene="res://demo/demo.tscn"
+run/main_scene="res://addons/weather_fx/demo/demo.tscn"
 config/features=PackedStringArray("4.3")
 
 [display]
