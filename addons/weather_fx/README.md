@@ -3,6 +3,10 @@
 12 animated 2D weather and water effects for Godot 4.3+ (Forward+, Mobile, Compatibility). Each is
 one shader drawn by one `WeatherFX` node: no textures, no particles.
 
+**The full pack:** **[Weather FX](https://heyheythere.itch.io/weather-fx)** has all 12: lightning, a lake that reflects your scene, a waterfall,
+falling leaves, cloud shadows, god rays, heat haze, underwater caustics and a day-night cycle on top of
+these three. Same node, same code: install it over this one.
+
 ## Add one
 
 ```gdscript

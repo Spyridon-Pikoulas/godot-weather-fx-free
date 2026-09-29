@@ -17,3 +17,7 @@ window/stretch/mode="canvas_items"
 
 textures/canvas_textures/default_texture_filter=1
 environment/defaults/default_clear_color=Color(0.06, 0.06, 0.1, 1)
+
+[autoload]
+
+FullPack="*res://addons/weather_fx/demo/full_pack.gd"

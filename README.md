@@ -9,6 +9,12 @@ WeatherFX.add(self, "fog", {color = Color.LAVENDER}).fade_in(3.0)
 rain.stop(2.0)
 ```
 
+### Want more?
+
+**[Weather FX](https://heyheythere.itch.io/weather-fx)** has all 12: lightning, a lake that reflects your scene, a waterfall,
+falling leaves, cloud shadows, god rays, heat haze, underwater caustics and a day-night cycle on top of
+these three. Same node, same code: install it over this one.
+
 ### What's inside
 
 - **rain**, with splashes where it meets the ground, **snow** and **fog**: they cover the screen
@@ -19,12 +25,6 @@ rain.stop(2.0)
   match your art.
 - `fade_in()` and `stop()` for weather that comes and goes.
 - Drop a WeatherFX node in a scene and it previews itself in the editor.
-
-### Want more?
-
-**[Weather FX](https://heyheythere.itch.io/weather-fx)** has all 12: lightning, a lake that reflects your scene, a waterfall,
-falling leaves, cloud shadows, god rays, heat haze, underwater caustics and a day-night cycle on top of
-these three. Same node, same code: install it over this one.
 
 ### Compatibility
 
